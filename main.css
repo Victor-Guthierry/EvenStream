@@ -1,0 +1,260 @@
+.header {
+    position: absolute;
+    width: 887px;
+    height: 221.75px;
+    top: 0px;
+}
+
+.logo {
+    position: absolute;
+    width: 181px;
+    height: 55px;
+    left: 24px;
+    top: 34px;
+}
+
+.bt-editar {
+    position: absolute;
+    width: 89px;
+    height: 30px;
+    left: 720px;
+    top: 47px;
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 25px;
+    color: #288BE4;
+    border: none;
+    background-color: #fff;
+
+
+}
+
+.bt-gravar {
+    position: absolute;
+    width: 89px;
+    height: 30px;
+    left: 823px;
+    top: 46px;
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    color: #FFFFFF;
+    background-color: #288BE4;
+    border-color: #288BE4;
+    border-radius: 5px;
+
+
+}
+
+.tela {
+    position: absolute;
+    width: 720px;
+    height: 390px; 
+    bottom: 10px;
+    left: 192px;
+    top: 95px;
+    background: #303030;
+    border-radius: 5px;
+}
+
+.logo-tela {
+    position: absolute;
+    width: 67px;
+    height: 20px;
+    left: 640px;
+    top: 10px;
+    opacity: 0.5;
+}
+
+.opcoes-tela {
+    position: absolute;
+    width: 548px;
+    height: 55px;
+    left: 281px;
+    top: 488px;
+    background-color: #E5E5E5;
+    border-radius: 2px;
+}
+
+.opcoes-tela .person-1 {
+    position: absolute;
+    width: 68px;
+    height: 40px;
+    left: 25px;
+    top: 7px;
+}
+
+.opcoes-tela .person-2 {
+    position: absolute;
+    width: 68px;
+    height: 40px;
+    left: 110px;
+    top: 7px;
+}
+
+.opcoes-tela .person-sep-2 {
+    position: absolute;
+    width: 68px;
+    height: 40px;
+    left: 195px;
+    top: 7px;
+}
+
+.opcoes-tela .person-3 {
+    position: absolute;
+    width: 68px;
+    height: 40px;
+    left: 280px;
+    top: 7px;
+}
+
+.opcoes-tela .person-screen {
+    position: absolute;
+    width: 68px;
+    height: 40px;
+    left: 365px;
+    top: 7px;
+}
+
+.opcoes-tela .tela-cheia {
+    position: absolute;
+    width: 68px;
+    height: 40px;
+    left: 450px;
+    top: 7px;
+}
+
+.banner {
+    position: absolute;
+    width: 342px;
+    height: 625px;
+    left: 970px;
+    top: 0px;
+    background-color: #D7D7D7;
+}
+
+.banner .exemplo-banner {
+    width: 291px;
+    height: 70px;
+    margin-top: 20px;
+    margin-left: 25px;
+    background-color: #E9E9E9;
+}
+
+.banner .banner-text {
+    margin-left: 15px;
+    padding-top: 12px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 19px;
+    color: #1D1D1D;
+}
+
+.banner .banner-novo {
+    width: 145px;
+    border-radius: 2px;
+    margin-top: 10px;
+    margin-left: 25px;
+    padding-bottom: 2px;
+}
+
+.banner .banner-opcoes {
+    width: 342px;
+    height: 68px;
+    margin-top: 428px;
+    background-color: #E9E9E9;
+}
+
+.banner-opcoes .chat {
+    margin-left: 248px;
+    margin-top: 10px;
+}
+
+.banner-opcoes .marca {
+    position: absolute;
+    margin-top: 10px;
+    right: 110px;
+}
+.banner-opcoes .banner-icone {
+    position: absolute;
+    margin-top: 11px;
+    right: 175px;
+}
+
+.banner-opcoes .comentarios {
+    position: absolute;
+    margin-top: 14px;
+    right: 250px;
+}
+
+.opcao-chamadas {
+    position: absolute;
+    width: 720px;
+    height: 75px;
+    left: 192px;
+    top: 550px;
+    background-color: #05061c;
+    border-radius: 15px 15px 0px 0px;
+}
+
+.opcao-chamadas .estudio {
+    margin-left: 600px;
+    margin-top: 5px;
+    width: 84px;
+}
+
+.opcao-chamadas .compartilhar {
+    position: absolute;
+    width: 78px;
+    top: 5px;
+    right: 180px;
+}
+
+.opcao-chamadas .config {
+    position: absolute;
+    width: 80px;
+    top: 5px;
+    right: 320px;
+}
+
+.opcao-chamadas .cam {
+    position: absolute;
+    width: 84px;
+    top: 5px;
+    right: 460px;
+}
+
+.opcao-chamadas .mic {
+    position: absolute;
+    width: 64px;
+    top: 5px;
+    right: 600px;
+}
+
+.palestrantes {
+    position: absolute;
+    width: 145px;
+    height: 267px;
+    left: 23px;
+    top: 150px;
+}
+
+.palestrantes .palestrante1 {
+    width: 145px;
+    height: 118px;
+    left: 23px;
+    top: 150px;
+}
+
+.palestrantes .palestrante2 {
+    margin-top: 10px;
+}
