@@ -2,6 +2,7 @@
     position: absolute;
     width: 887px;
     height: 221.75px;
+    left: 0px;
     top: 0px;
 }
 
@@ -134,7 +135,7 @@
 .banner {
     position: absolute;
     width: 342px;
-    height: 625px;
+    height: 615px;
     left: 970px;
     top: 0px;
     background-color: #D7D7D7;
@@ -169,30 +170,30 @@
 
 .banner .banner-opcoes {
     width: 342px;
-    height: 68px;
+    height: 56px;
     margin-top: 428px;
     background-color: #E9E9E9;
 }
 
 .banner-opcoes .chat {
     margin-left: 248px;
-    margin-top: 10px;
+    margin-top: 8px;
 }
 
 .banner-opcoes .marca {
     position: absolute;
-    margin-top: 10px;
+    margin-top: 8px;
     right: 110px;
 }
 .banner-opcoes .banner-icone {
     position: absolute;
-    margin-top: 11px;
+    margin-top: 9px;
     right: 175px;
 }
 
 .banner-opcoes .comentarios {
     position: absolute;
-    margin-top: 14px;
+    margin-top: 12px;
     right: 250px;
 }
 
